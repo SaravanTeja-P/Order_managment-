@@ -1,2 +1,2 @@
-this is a text
-this a shell is also a auto script for devops this is also a jenkin file  
+D
+this a shell is also a auto script for devops this is also a jenkin file
