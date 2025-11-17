@@ -1,2 +1,3 @@
 D
 this a shell is also a auto script for devops this is also a jenkin file
+writing k8 logs 
